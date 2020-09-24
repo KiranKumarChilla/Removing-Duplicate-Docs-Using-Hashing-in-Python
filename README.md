@@ -1,1 +1,1 @@
-# Removing-Duplicate-Docs-Using-Parallel-Processing-in-Python
+# Removing-Duplicate-Docs-Using-Hashing-in-Python
